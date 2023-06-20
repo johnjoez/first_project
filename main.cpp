@@ -1,2 +1,6 @@
-import cv2;
-using name std;
+#include<iostream>
+using namespace std;
+int main() {
+	cout << "Xin chao!";
+	return 0;
+}
